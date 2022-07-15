@@ -7,13 +7,15 @@
 <div align="center">
 📫 How to reach me:
 
-<div> 
+<div align="center"> 
   <a href = "mailto:Brayner.luizeduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://exercism.org/profiles/Likeninjabr0202"><img src="https://img.shields.io/badge/-Exercism-%23333?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-edu0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   </div>
 </div>
+<br/>
+<br/>
 
 - 🌱 I’m currently learning `C#` with `DotNet` and `Python`<br>
 - 💬 Ask me about `Game Development`, `Unity` and `RPG systems`<br>
@@ -22,6 +24,19 @@
 
 
 ##
+
+  <div align="left">
+  <a href="https://github.com/luiz-edu0202">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-edu0202&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+</div>
+  
+</div>
+</p>
+
+##
+</br>
+
 **Languages and Tools:**  
 <p align="left"> 
 <div style="display: inline_block"><br>
@@ -34,17 +49,6 @@
   <img align="center" alt="Dustin-vs"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Dustin-vscode" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
- 
-</div>
-</p>
-
-</br>
-
-<div align="center">
-  <a href="https://github.com/luiz-edu0202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-edu0202&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-</div>
 
 
 
