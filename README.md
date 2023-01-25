@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning `C#` with `DotNet` and `Python`<br>
+- 🌱 I’m currently learning `Python` with `Django` and `MySQL`<br>
 - 💬 Ask me about `Game Development`, `Unity` and `RPG systems`<br>
 - 😄 Pronouns: Him/His Ele/Dele<br>
 - ⚡ Fun fact: I've already lectured a Ted... but please never look for it.<br>
@@ -40,14 +40,16 @@
 **Languages and Tools:**  
 <p align="left"> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dustin-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dustin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dustin-Core.Net" height="30" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-  <img align="center" alt="Dustin-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Dustin-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Dustin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="Dustin-Java" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="Dustin-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+  <img align="center" alt="Dustin-mySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Dustin-git"    height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
   <img align="center" alt="Dustin-unity"  height="30" width="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
-  <img align="center" alt="Dustin-vs"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Dustin-vscode" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Dustin-vs"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img align="center" alt="Dustin-vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="Dustin-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 
 
 
@@ -143,6 +145,8 @@
 
 Garoto de programa. Trabalha e interage em todas as abordagens: frente (front) e fundo (back). Atende em finais de semana e durante feriados
 
+<img align="center" alt="Dustin-Core.Net" height="30" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+  <img align="center" alt="Dustin-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <br/>
 -->
 
