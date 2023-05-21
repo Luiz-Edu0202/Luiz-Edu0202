@@ -17,96 +17,76 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning `Python` with `Django` and `MySQL`<br>
-- 💬 Ask me about `Game Development`, `Unity` and `RPG systems`<br>
+## <img width="45" alt="about" src="https://camo.githubusercontent.com/3d0505504307fefab48b4d3f530827abe91beab78c802c953cad19c182d8834b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d696e6563726166742e737667"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```Python
+class DUSTIN {
+ name = "Luiz Eduardo Araujo Brayner"
+ acknowledgements = "Back-end dev".join(college.learning())
+ 
+ primarySkillset = "ALGUMAS HABILIDADES"
+ languages = ["Python","Java","C#", "C++","html"] 
+
+}
+```
+
+- 📚 Studying Computer Science at [Cesar School](https://github.com/Abduzidos)
+- 🌱 I’m currently learning `Python`,`C++` with `Arduino`<br>
+- 💬 Ask me about `Game Development`, `Arduino`, `I.A.`, `Back-End` and `RPG systems`<br>
+- 👯 I’m looking to collaborate on `physical computing`
 - 😄 Pronouns: Him/His Ele/Dele<br>
 - ⚡ Fun fact: I've already lectured a Ted... but please never look for it.<br>
 
 
 ##
 
-  <div align="left">
-  <a href="https://github.com/luiz-edu0202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-edu0202&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+### Top Languages and Tools:
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+
+##
+
+<div >
+  <a align="left" href="https://github.com/luiz-edu0202">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://git.io/streak-stats">
+    <img align="left" src="https://streak-stats.demolab.com?user=luiz-edu0202&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat"/>
+  </a>
 </div>
   
 </div>
 </p>
 
 ##
-</br>
 
-**Languages and Tools:**  
-<p align="left"> 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dustin-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Dustin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Dustin-Java" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Dustin-spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-  <img align="center" alt="Dustin-mySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Dustin-git"    height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  <img align="center" alt="Dustin-unity"  height="30" width="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
-  <img align="center" alt="Dustin-vs"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-  <img align="center" alt="Dustin-vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Dustin-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+### Contributor
 
-
-
+[![Followline](https://github-readme-stats.vercel.app/api/pin/?username=Computacao-Fisica-CESAR-School&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Computacao-Fisica-CESAR-School/Followline)
 
 <!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- <img align="center" alt="Dustin-gitHub" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- <img align="center" alt="Dustin-mySql" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+Future inserts
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+### Developer of
 
+[![XXX](XXX?username=ErickSimoes&repo=XXX&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https:/XXX)
 
-<br/>
-</div>
-
-- 🔭 I’m currently working at [Cesar](https://github.com/CESARBR) | [Makerama](https://github.com/Makerama)
-- 📚 Studying Computer Science at [Cesar School](https://github.com/Abduzidos)
-- 🌱 And learning `JavaScript` with `Ember` and `Ruby` with `Ruby on rails` 
-- 👯 I’m looking to collaborate on `educational projects`
-- 💬 Ask me about `Management 3.0`, `Market Business`, `Maker Culture` and `Game Development` 
-- 🗣 Pronouns: She/Hers
-- ⚡ Fun fact: I doubt my own existence (?)
-
----
-
-### Top Languages and Tools
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="35" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="35" />
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-<br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iMaary&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luiz-Edu2020&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&dates=4C8EDA&stroke=1C2F45&border=E4E2E2)](https://git.io/streak-stats)
-
-<!--
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Edu0202&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) 
-
----
+[![FunnyAlgorithms](https://github-readme-stats.vercel.app/api/pin/?username=ReciHub&repo=FunnyAlgorithms&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/ReciHub/FunnyAlgorithms)
 
 ### Trophies
 
@@ -114,39 +94,37 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Luiz-Edu0202&theme=discord_old_blurple&margin-w=3&margin-h=15"/>
 </div>
 
----
 
- ### Developer of
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[![XXX](XXX?username=ErickSimoes&repo=XXX&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https:/XXX)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-### Contributor
-
-[![XXXps://XXX?username=OtacilioN&repo=XXX&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](XXX) 
-
-
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
-
-Garoto de programa. Trabalha e interage em todas as abordagens: frente (front) e fundo (back). Atende em finais de semana e durante feriados
-
-<img align="center" alt="Dustin-Core.Net" height="30" width="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"/>
-  <img align="center" alt="Dustin-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
 <br/>
--->
 
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-username/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+
+
+Garoto de programa. Trabalha e interage em todas as abordagens: frente (front) e fundo (back). Atende em finais de semana e durante feriados-->
