@@ -62,7 +62,7 @@ class DUSTIN {
 
 ##
 
-<div >
+<div>
   <a align="left" href="https://github.com/luiz-edu0202">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <a href="https://git.io/streak-stats">
@@ -70,15 +70,14 @@ class DUSTIN {
   </a>
 </div>
   
-</div>
-</p>
-
 <br/>
-<div align="left">
-### Contributor
+  
+ ## 
+  
+### Contributor:
 
 [![Followline](https://github-readme-stats.vercel.app/api/pin/?username=Computacao-Fisica-CESAR-School&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Computacao-Fisica-CESAR-School/Followline)
-</div>
+
 <!--
 Future inserts
 
