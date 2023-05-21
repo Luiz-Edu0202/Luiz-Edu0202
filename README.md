@@ -74,11 +74,11 @@ class DUSTIN {
 </p>
 
 <br/>
-
+<div align="left">
 ### Contributor
 
 [![Followline](https://github-readme-stats.vercel.app/api/pin/?username=Computacao-Fisica-CESAR-School&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Computacao-Fisica-CESAR-School/Followline)
-
+</div>
 <!--
 Future inserts
 
