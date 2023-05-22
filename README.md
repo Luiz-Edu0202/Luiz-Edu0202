@@ -64,9 +64,9 @@ class DUSTIN {
 
 <div>
   <a align="left" href="https://github.com/luiz-edu0202">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <a href="https://git.io/streak-stats">
-    <img align="left" src="https://streak-stats.demolab.com?user=luiz-edu0202&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/luiz-edu0202">
+    <img align="rigth" height="160em" src="https://streak-stats.demolab.com?user=luiz-edu0202&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&/">
   </a>
 </div>
   
@@ -75,7 +75,7 @@ class DUSTIN {
 
   
 <div align="left">
-<h2>Contributor:</h2>
+  <h2>Contributor:</h2>
 </div>
 
 [![Followline](https://github-readme-stats.vercel.app/api/pin/?username=Computacao-Fisica-CESAR-School&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Computacao-Fisica-CESAR-School/Followline)
