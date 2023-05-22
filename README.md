@@ -64,7 +64,7 @@ class DUSTIN {
 
 <div>
   <a align="left" href="https://github.com/luiz-edu0202">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/luiz-edu0202">
     <img align="rigth" height="160em" src="https://streak-stats.demolab.com?user=luiz-edu0202&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&/">
   </a>
