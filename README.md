@@ -17,7 +17,7 @@
 
 ## <img width="45" alt="about" src="https://camo.githubusercontent.com/3d0505504307fefab48b4d3f530827abe91beab78c802c953cad19c182d8834b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d696e6563726166742e737667"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="335" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```Python
 class DUSTIN {
