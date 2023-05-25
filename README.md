@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Luiz "Dustin" Eduardo</h1>
+</div>
 
 <p align='center'>
 
@@ -12,7 +13,6 @@
    <a href = "https://exercism.org/profiles/Likeninjabr0202"><img src="https://img.shields.io/badge/-Exercism-%23333?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-edu0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  </div>
 </div>
 
 ## <img width="45" alt="about" src="https://camo.githubusercontent.com/3d0505504307fefab48b4d3f530827abe91beab78c802c953cad19c182d8834b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d696e6563726166742e737667"> Mais sobre mim
@@ -63,25 +63,29 @@ class DUSTIN {
 <div>
   <a align="left" href="https://github.com/luiz-edu0202">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiz-edu0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
   <a href="https://github.com/luiz-edu0202">
     <img align="rigth" height="160em" src="https://streak-stats.demolab.com?user=luiz-edu0202&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&/">
   </a>
 </div>
   
- ### Developer of:
+ ## Developer of:
 
 [![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-E-T&repo=Projeto_FP&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-E-T/Projeto_FP)
    
 
-  
-<div align="left">
-  <h2>Contributor:</h2>
-</div>
+ ## Contributor:
 
 [![Followline](https://github-readme-stats.vercel.app/api/pin/?username=Computacao-Fisica-CESAR-School&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Computacao-Fisica-CESAR-School/Followline)
 
 <!--
 Future inserts
+
+## Most Useds languages
+
+<a href="https://github.com/luiz-edu0202">
+    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=Luiz-Edu0202&layout=compact&theme=tokyonight"/>
+</a>
 
 ### Developer of
 
