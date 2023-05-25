@@ -14,8 +14,6 @@
 </div>
   </div>
 </div>
-<br/>
-<br/>
 
 ## <img width="45" alt="about" src="https://camo.githubusercontent.com/3d0505504307fefab48b4d3f530827abe91beab78c802c953cad19c182d8834b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d696e6563726166742e737667"> Mais sobre mim
 
@@ -70,8 +68,10 @@ class DUSTIN {
   </a>
 </div>
   
-<br/> 
-<br/>
+ ### Developer of:
+
+[![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-E-T&repo=Projeto_FP&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-E-T/Projeto_FP)
+   
 
   
 <div align="left">
