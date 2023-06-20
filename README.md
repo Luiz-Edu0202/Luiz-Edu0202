@@ -10,8 +10,9 @@
 
 <div align="center"> 
   <a href = "mailto:Brayner.luizeduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://exercism.org/profiles/Likeninjabr0202"><img src="https://img.shields.io/badge/-Exercism-%23333?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-edu0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href = "https://exercism.org/profiles/Likeninjabr0202"><img src="https://img.shields.io/badge/-Exercism-%23333?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
+  <a href = "https://www.beecrowd.com.br/judge/pt/profile/835605"><img alt="Static Badge" src="https://img.shields.io/badge/Beecrowd-purple?style=for-the-badge&link=https%3A%2F%2Fwww.beecrowd.com.br%2Fjudge%2Ffavicon.ico">
 </div>
 </div>
 
