@@ -73,6 +73,7 @@ class DUSTIN {
  ## Developer of:
 
 [![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-E-T&repo=Projeto_FP&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-E-T/Projeto_FP)
+[![Marvin](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Edu0202&repo=Marvin&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Luiz-Edu0202/Marvin.git)
    
 
  ## Contributor:
