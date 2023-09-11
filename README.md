@@ -72,13 +72,15 @@ class DUSTIN {
   
  ## Developer of:
 
-[![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-E-T&repo=Projeto_FP&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-E-T/Projeto_FP)
+[![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
+[![Coffe-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
 [![Marvin](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Edu0202&repo=Marvin&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Luiz-Edu0202/Marvin.git)
+[![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=CRUD-Particular&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/CRUD-Particular)
    
 
  ## Contributor:
 
-[![Followline](https://github-readme-stats.vercel.app/api/pin/?username=Computacao-Fisica-CESAR-School&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Computacao-Fisica-CESAR-School/Followline)
+[![Followline](https://github-readme-stats.vercel.app/api/pin/?username=garagino&repo=Followline&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/garagino/Followline)
 
 <!--
 Future inserts
