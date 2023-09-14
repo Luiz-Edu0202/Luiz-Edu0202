@@ -27,7 +27,7 @@ class DUSTIN {
  acknowledgements = "Back-end dev".join(college.learning())
  
  primarySkillset = "ALGUMAS HABILIDADES"
- languages = ["Python","Java","C#", "C++"] 
+ languages = ["Python","Java","C", "C++","C#"] 
 
 }
 ```
