@@ -34,7 +34,7 @@ class DUSTIN {
 
 - 📚 Studying Computer Science at [Cesar School](https://github.com/Abduzidos)
 - 🌱 I’m currently learning `C`,`Python` with `Django`<br>
-- 💬 Ask me about `Game Development`, `Robotic`, `I.A.`, `Back-End` and `RPG systems`<br>
+- 💬 Ask me about `Game Development`, `Robotics`, `I.A.`, `Back-End` and `RPG systems`<br>
 - 👯 I’m looking to collaborate on `physical computing`
 - 😄 Pronouns: Him/His Ele/Dele<br>
 - ⚡ Fun fact: I've already lectured a Ted... but please never look for it.<br>
