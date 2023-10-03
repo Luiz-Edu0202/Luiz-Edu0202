@@ -33,8 +33,8 @@ class DUSTIN {
 ```
 
 - 📚 Studying Computer Science at [Cesar School](https://github.com/Abduzidos)
-- 🌱 I’m currently learning `Python`,`C++` with `Arduino`<br>
-- 💬 Ask me about `Game Development`, `Arduino`, `I.A.`, `Back-End` and `RPG systems`<br>
+- 🌱 I’m currently learning `C`,`Python` with `Django`<br>
+- 💬 Ask me about `Game Development`, `Robotic`, `I.A.`, `Back-End` and `RPG systems`<br>
 - 👯 I’m looking to collaborate on `physical computing`
 - 😄 Pronouns: Him/His Ele/Dele<br>
 - ⚡ Fun fact: I've already lectured a Ted... but please never look for it.<br>
@@ -76,7 +76,6 @@ class DUSTIN {
 [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
 [![Coffe-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
 [![Marvin](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Edu0202&repo=Marvin&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Luiz-Edu0202/Marvin.git)
-[![Projeto_FP](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=CRUD-Particular&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/CRUD-Particular)
    
 
  ## Contributor:
