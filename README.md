@@ -10,6 +10,7 @@
 
 <div align="center"> 
   <a href = "mailto:Brayner.luizeduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leab@cesar.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-edu0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://exercism.org/profiles/Likeninjabr0202"><img src="https://img.shields.io/badge/-Exercism-%23333?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
   <a href = "https://replit.com/@LUIZEDUARDO193"><img alt="Static Badge" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
@@ -17,7 +18,7 @@
 </div>
 </div>
 
-## <img width="45" alt="about" src="https://camo.githubusercontent.com/3d0505504307fefab48b4d3f530827abe91beab78c802c953cad19c182d8834b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d696e6563726166742e737667"> Mais sobre mim
+## Mais sobre mim
 
 <img align="right" width="335" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -33,9 +34,9 @@ class DUSTIN {
 ```
 
 - 📚 Studying Computer Science at [Cesar School](https://github.com/Abduzidos)
-- 🌱 I’m currently learning `C`,`Python` with `Django`<br>
-- 💬 Ask me about `Game Development`, `Robotics`, `I.A.`, `Back-End` and `RPG systems`<br>
-- 👯 I’m looking to collaborate on `physical computing`
+- 🌱 I’m currently learning `C`,`Java` with `Spring`<br>
+- 💬 Ask me about `Game Development`, `Robotics`, `DevOps`, `Back-End` and `RPG systems`<br>
+- 👯 I’m looking to collaborate on `Cloud Computing`
 - 😄 Pronouns: Him/His Ele/Dele<br>
 - ⚡ Fun fact: I've already lectured a Ted... but please never look for it.<br>
 
@@ -45,18 +46,24 @@ class DUSTIN {
 ### Top Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
@@ -74,8 +81,7 @@ class DUSTIN {
  ## Developer of:
 
 [![Kolekto](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Kolekto&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Kolekto)
-[![Coffe-Break](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Coffee-Break&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Coffee-Break)
-[![Marvin](https://github-readme-stats.vercel.app/api/pin/?username=Luiz-Edu0202&repo=Marvin&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Luiz-Edu0202/Marvin.git)
+[![Sub](https://github-readme-stats.vercel.app/api/pin/?username=P-E-N-T-E-S&repo=Sub&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/P-E-N-T-E-S/Sub)
    
 
  ## Contributor:
