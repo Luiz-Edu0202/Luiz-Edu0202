@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <a href = "mailto:Brayner.luizeduardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leab@cesar.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:leab@discente.ifpe.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-edu0202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://exercism.org/profiles/Likeninjabr0202"><img src="https://img.shields.io/badge/-Exercism-%23333?style=for-the-badge&logo=exercism&logoColor=white" target="_blank"></a>
   <a href = "https://replit.com/@LUIZEDUARDO193"><img alt="Static Badge" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
@@ -33,7 +33,7 @@ class DUSTIN {
 }
 ```
 
-- 📚 Studying Computer Science at [Cesar School](https://github.com/Abduzidos)
+- 📚 Studying Systems Analysis and Development at [IFPE](https://portal.ifpe.edu.br/recife)
 - 🌱 I’m currently learning `C`,`Java` with `Spring`<br>
 - 💬 Ask me about `Game Development`, `Robotics`, `DevOps`, `Back-End` and `RPG systems`<br>
 - 👯 I’m looking to collaborate on `Cloud Computing`
